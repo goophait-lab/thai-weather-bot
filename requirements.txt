@@ -1,0 +1,4 @@
+requests
+pandas
+numpy
+urllib3
